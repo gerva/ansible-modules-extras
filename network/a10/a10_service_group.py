@@ -105,7 +105,7 @@ options:
 
 EXAMPLES = '''
 # Create a new service-group
-- a10_service_group: 
+- a10_service_group:
     host: a10.mydomain.com
     username: myadmin
     password: mypassword
