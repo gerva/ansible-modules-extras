@@ -103,7 +103,7 @@ options:
 
 EXAMPLES = '''
 # Create a new virtual server
-- a10_virtual_server: 
+- a10_virtual_server:
     host: a10.mydomain.com
     username: myadmin
     password: mypassword
