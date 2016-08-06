@@ -91,7 +91,6 @@ options:
     required: false
     default: "no"
     choices: ["yes", "no"]
-    version_added: '2.2'
   validate_certs:
     description:
       - If C(no), SSL certificates will not be validated. This should only be used
@@ -99,7 +98,6 @@ options:
     required: false
     default: 'yes'
     choices: ['yes', 'no']
-    version_added: '2.2'
 
 '''
 
